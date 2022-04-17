@@ -1540,7 +1540,8 @@ void MarlinSettings::postprocess() {
 
       eeprom_error |= size_error(eeprom_size);
     }
-    EEPROM_FINISH();
+    // TODO: Hornet will stuck on EEPROM_FINISH
+    // EEPROM_FINISH();
 
     //
     // UBL Mesh
