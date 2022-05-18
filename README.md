@@ -10,6 +10,13 @@
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
 
+> From [@linroid](https://github.com/linroid):
+> This forked version is customized for my Artillery Hornet 3D Printer with following changes:
+> - Enabled power less recovery
+> - Enabled BLTouch(Required mount a BLTouch, go [Thingiverse](https://www.thingiverse.com/thing:5039451) for more information)
+> - Decrease the boot screen time to 1 second
+> - Enabled LCD info
+
 ## Marlin 2.0
 
 Marlin 2.0 takes this popular RepRap firmware to the next level by adding support for much faster 32-bit and ARM-based boards while improving support for 8-bit AVR boards. Read about Marlin's decision to use a "Hardware Abstraction Layer" below.
