@@ -15,6 +15,13 @@
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
 
+> From [@linroid](https://github.com/linroid):
+> This forked version is customized for my Artillery Hornet 3D Printer with following changes:
+> - Enabled power less recovery
+> - Enabled BLTouch(Required mount a BLTouch, go [Thingiverse](https://www.thingiverse.com/thing:5039451) for more information)
+> - Decrease the boot screen time to 1 second
+> - Enabled LCD info
+
 ## Marlin 2.1
 
 Marlin 2.1 continues to support both 32-bit ARM and 8-bit AVR boards while adding support for up to 9 coordinated axes and to up to 8 extruders.
