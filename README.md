@@ -19,8 +19,8 @@ Please test this firmware and let us know if it misbehaves in any way. Volunteer
 > This forked version is customized for my Artillery Hornet 3D Printer with following changes:
 > - Enabled power less recovery
 > - Enabled BLTouch(Required mount a BLTouch, go [Thingiverse](https://www.thingiverse.com/thing:5039451) for more information)
-> - Decrease the boot screen time to 1 second
 > - Enabled LCD info
+> - Decreased the boot screen time to 1 second
 
 ## Marlin 2.1
 
